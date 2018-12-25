@@ -1,0 +1,5 @@
+>> import data
+>> plus the (iffset) drift to cancel it
+dt = asd[2] - asd[1]
+
+using "trapz" to intergrate
